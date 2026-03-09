@@ -254,7 +254,9 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 
 **Espacio para insertar imágenes (Markdown):**
 
-- ![Ejecución local - build Maven](docs/img/ejecucion-local-maven.png) <!-- TODO: agregar captura -->
+- ![Ejecución local - build Maven](docs/img/ejecucion-local-maven.png)
+- <img width="1440" height="934" alt="image" src="https://github.com/user-attachments/assets/2d5330ce-d221-44cc-b033-147ac1d29826" />
+<!-- TODO: agregar captura -->
 - ![Ejecución local - servidor corriendo](docs/img/ejecucion-local-servidor.png) <!-- TODO: agregar captura -->
 - ![Ejecución local - navegador index](docs/img/ejecucion-local-index.png) <!-- TODO: agregar captura -->
 - ![Ejecución local - navegador greeting](docs/img/ejecucion-local-greeting.png) <!-- TODO: agregar captura -->
