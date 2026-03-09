@@ -261,6 +261,8 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 - <img width="1906" height="974" alt="image" src="https://github.com/user-attachments/assets/fe7e4732-f89f-44e6-9069-f595417d02e8" />
 
 - ![Ejecución local - navegador index](docs/img/ejecucion-local-index.png) <!-- TODO: agregar captura -->
+- <img width="1767" height="1035" alt="image" src="https://github.com/user-attachments/assets/6af31eae-afec-4b40-ad22-647a470d9799" />
+
 - ![Ejecución local - navegador greeting](docs/img/ejecucion-local-greeting.png) <!-- TODO: agregar captura -->
 
 > Crear la carpeta `docs/img` y subir las capturas con los nombres anteriores, o actualizar las rutas según se requiera.
