@@ -252,22 +252,20 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
   - `http://localhost:8080/greeting`.
   - `http://localhost:8080/greeting?name=<TU_NOMBRE>`.
 
-**Espacio para insertar imágenes (Markdown):**
 
-- ![Ejecución local - build Maven](docs/img/ejecucion-local-maven.png)
+
 - <img width="1440" height="934" alt="image" src="https://github.com/user-attachments/assets/2d5330ce-d221-44cc-b033-147ac1d29826" />
-<!-- TODO: agregar captura -->
-- ![Ejecución local - servidor corriendo](docs/img/ejecucion-local-servidor.png) <!-- TODO: agregar captura -->
+  
+
 - <img width="1906" height="974" alt="image" src="https://github.com/user-attachments/assets/fe7e4732-f89f-44e6-9069-f595417d02e8" />
 
-- ![Ejecución local - navegador index](docs/img/ejecucion-local-index.png) <!-- TODO: agregar captura -->
+
 - <img width="1767" height="1035" alt="image" src="https://github.com/user-attachments/assets/6af31eae-afec-4b40-ad22-647a470d9799" />
 
-- ![Ejecución local - navegador greeting](docs/img/ejecucion-local-greeting.png) <!-- TODO: agregar captura --><img width="1724" height="1040" alt="image" src="https://github.com/user-attachments/assets/189af5b0-12c8-402a-8a43-f9d5a40d0188" />
+- <img width="1724" height="1040" alt="image" src="https://github.com/user-attachments/assets/189af5b0-12c8-402a-8a43-f9d5a40d0188" />
 
-- 
+ 
 
-> Crear la carpeta `docs/img` y subir las capturas con los nombres anteriores, o actualizar las rutas según se requiera.
 
 ### 6.2. Evidencias de despliegue en AWS
 
