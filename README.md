@@ -273,6 +273,10 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/806f7b40-696b-46cf-9443-49715f785401" />
 <img width="1802" height="395" alt="image" src="https://github.com/user-attachments/assets/88c1690c-8a68-413c-af6c-60f10e10a1e6" />
 <img width="1735" height="668" alt="image" src="https://github.com/user-attachments/assets/67670aee-2f25-4de0-ac4f-2ac383d94f6c" />
+<img width="1717" height="240" alt="image" src="https://github.com/user-attachments/assets/21b10b8e-6b1b-4fb3-b294-53971a5af27f" />
+<img width="1771" height="418" alt="image" src="https://github.com/user-attachments/assets/6574780d-05fa-424b-b3c8-6bfa9ee3ffdc" />
+<img width="1567" height="827" alt="image" src="https://github.com/user-attachments/assets/4802a04d-c35f-4128-be54-97ecd091f94b" />
+
 
 
 
