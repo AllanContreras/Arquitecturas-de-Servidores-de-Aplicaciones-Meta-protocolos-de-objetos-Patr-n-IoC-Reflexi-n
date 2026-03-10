@@ -281,7 +281,12 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 
 <img width="1504" height="820" alt="image" src="https://github.com/user-attachments/assets/09f58463-54e8-4651-9e96-346664703f33" />
 
+<img width="1899" height="332" alt="image" src="https://github.com/user-attachments/assets/261c9377-2a05-4662-a925-b47a6dea5a68" />
+<img width="1800" height="144" alt="image" src="https://github.com/user-attachments/assets/e3723588-c502-4baa-b511-c12e5ba4a37b" />
 
+<img width="1917" height="746" alt="image" src="https://github.com/user-attachments/assets/df99a0c7-5804-4400-a1cf-9db7faac3977" />
+<img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/eb8f6fa2-ac88-4287-b54e-265efb182d6a" />
+<img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/be0cabb9-47fe-402a-9711-abc6cb41fd76" />
 
 
 - Vista de la consola de AWS con la instancia EC2 en ejecución.
