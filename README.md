@@ -270,6 +270,11 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 ### 6.2. Evidencias de despliegue en AWS
 
 **Capturas sugeridas:**
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/806f7b40-696b-46cf-9443-49715f785401" />
+<img width="1802" height="395" alt="image" src="https://github.com/user-attachments/assets/88c1690c-8a68-413c-af6c-60f10e10a1e6" />
+<img width="1735" height="668" alt="image" src="https://github.com/user-attachments/assets/67670aee-2f25-4de0-ac4f-2ac383d94f6c" />
+
+
 
 - Vista de la consola de AWS con la instancia EC2 en ejecución.
 - Terminal conectada por SSH mostrando la ejecución del servidor.
