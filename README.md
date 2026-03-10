@@ -288,6 +288,13 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 <img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/eb8f6fa2-ac88-4287-b54e-265efb182d6a" />
 <img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/be0cabb9-47fe-402a-9711-abc6cb41fd76" />
 
+<img width="1905" height="867" alt="image" src="https://github.com/user-attachments/assets/f45c5da8-eefa-477f-9012-5d37f3e6d06e" />
+<img width="1897" height="156" alt="image" src="https://github.com/user-attachments/assets/aad27f1e-9d90-4c32-868c-c4e4080e0ecd" />
+
+<img width="1705" height="372" alt="image" src="https://github.com/user-attachments/assets/1d31ce18-1a75-4a6d-a77b-44e76777a7f7" />
+<img width="1910" height="966" alt="image" src="https://github.com/user-attachments/assets/4ceeb8e6-e693-48b1-b453-7f4aaacffcf7" />
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/52cc0970-8564-4dac-a5dc-5792a3e40d9f" />
+<img width="1903" height="711" alt="image" src="https://github.com/user-attachments/assets/4907f9b0-bb1c-4a3e-9d7e-2ea8976bf575" />
 
 - Vista de la consola de AWS con la instancia EC2 en ejecución.
 - Terminal conectada por SSH mostrando la ejecución del servidor.
