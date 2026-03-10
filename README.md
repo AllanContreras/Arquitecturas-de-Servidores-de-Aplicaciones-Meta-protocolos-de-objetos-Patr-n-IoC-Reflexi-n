@@ -250,7 +250,7 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 - Navegador accediendo a:
   - `http://localhost:8080/`.
   - `http://localhost:8080/greeting`.
-  - `http://localhost:8080/greeting?name=<TU_NOMBRE>`.
+  - `http://localhost:8080/greeting?name=Allan`.
 
 
 
@@ -269,7 +269,7 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 
 ### 6.2. Evidencias de despliegue en AWS
 
-**Capturas sugeridas:**
+**Capturamos la evidencia de la creacion de la instancia y procesos en la consola con Windows PowerShell:**
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/806f7b40-696b-46cf-9443-49715f785401" />
 <img width="1802" height="395" alt="image" src="https://github.com/user-attachments/assets/88c1690c-8a68-413c-af6c-60f10e10a1e6" />
 <img width="1917" height="223" alt="image" src="https://github.com/user-attachments/assets/3eb55c68-cb36-40c6-89cf-8439b3a406e9" />
@@ -292,20 +292,14 @@ Esta sección está pensada para agregar capturas de pantalla y/o enlaces como e
 <img width="1897" height="156" alt="image" src="https://github.com/user-attachments/assets/aad27f1e-9d90-4c32-868c-c4e4080e0ecd" />
 
 <img width="1705" height="372" alt="image" src="https://github.com/user-attachments/assets/1d31ce18-1a75-4a6d-a77b-44e76777a7f7" />
+- validamos
+
+
+
+- http://ec2-3-239-111-120.compute-1.amazonaws.com:8080/greeting
 <img width="1910" height="966" alt="image" src="https://github.com/user-attachments/assets/4ceeb8e6-e693-48b1-b453-7f4aaacffcf7" />
+- http://ec2-3-239-111-120.compute-1.amazonaws.com:8080/greeting?name=Allan
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/52cc0970-8564-4dac-a5dc-5792a3e40d9f" />
+- http://ec2-3-239-111-120.compute-1.amazonaws.com:8080/
 <img width="1903" height="711" alt="image" src="https://github.com/user-attachments/assets/4907f9b0-bb1c-4a3e-9d7e-2ea8976bf575" />
-
-- Vista de la consola de AWS con la instancia EC2 en ejecución.
-- Terminal conectada por SSH mostrando la ejecución del servidor.
-- Navegador accediendo a:
-  - `http://IP_PUBLICA_EC2:8080/`.
-  - `http://IP_PUBLICA_EC2:8080/greeting?name=<TU_NOMBRE>`.
-
-**Espacio para insertar imágenes (Markdown):**
-
-- ![AWS - instancia EC2](docs/img/aws-ec2-instancia.png) <!-- TODO: agregar captura -->
-- ![AWS - servidor corriendo](docs/img/aws-servidor-corriendo.png) <!-- TODO: agregar captura -->
-- ![AWS - navegador index](docs/img/aws-index.png) <!-- TODO: agregar captura -->
-- ![AWS - navegador greeting](docs/img/aws-greeting.png) <!-- TODO: agregar captura -->
 
